@@ -19,4 +19,29 @@ para guardar, ya no soy origin le cambie el nombre a origin por github
 $ git push -u github master
 
 se realizan cambios en git online
-se guarda el comit con el boton verde y se le agregan comentarios
+se guarda el comit con el boton verde y se le agregan comentarios:
+
+en git local, hacer:
+git pull
+
+y ya queda guardado localmte
+
+
+cuando aguien actuaizo antes de que yo haga push, puedo guardar cambios temporalte:
+git stash
+
+que es lo que tengo:
+git stash list
+
+traigame los cambios:
+git stash pop
+
+neva rama :
+git branch carrousel   --(carrousel es el nombre de la rama)
+git branch checkout carrousel  (checkout es para overse entre ramas, tambien se puede entre commits pero no es o ideal
+
+git checkout master  (cambiese a la rama de master)
+git status
+git merge carrousel (traiga lo que esta e carrousel hacia master)
+
+a
