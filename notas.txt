@@ -17,3 +17,6 @@ git remote--- para ver que repositorios tengo
 
 para guardar, ya no soy origin le cambie el nombre a origin por github
 $ git push -u github master
+
+se realizan cambios en git online
+se guarda el comit con el boton verde y se le agregan comentarios
