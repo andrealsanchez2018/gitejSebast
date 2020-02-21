@@ -1,0 +1,16 @@
+git status
+git add .
+git status
+git commit -m "txt add"
+
+si no se quiere hacer un uevo commit si  agregarle al commit nterior:
+git commit -- amend
+
+
+
+
+enlazar el de internet copiado el enlace asi:
+git remote add github https://github.com/andrealsanchez2018/gitproyectofinal.git
+
+
+git remote--- para ver que repositorios tengo
