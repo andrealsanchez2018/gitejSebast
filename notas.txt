@@ -41,7 +41,10 @@ git branch carrousel   --(carrousel es el nombre de la rama)
 git branch checkout carrousel  (checkout es para overse entre ramas, tambien se puede entre commits pero no es o ideal
 
 git checkout master  (cambiese a la rama de master)
-git status
+git status -- verificando que estoy en master:
 git merge carrousel (traiga lo que esta e carrousel hacia master)
 
-a
+git log 
+se encuentra el numero del ultimo commit para recuperar algo que se haya dañado
+
+git checkout (aca pega e codigo de commit y co eso se devuelve a la version anterior)
