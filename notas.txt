@@ -14,3 +14,6 @@ git remote add github https://github.com/andrealsanchez2018/gitproyectofinal.git
 
 
 git remote--- para ver que repositorios tengo
+
+para guardar, ya no soy origin le cambie el nombre a origin por github
+$ git push -u github master
